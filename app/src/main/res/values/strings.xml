@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">RMA-projekt-2</string>
+    <string name="labelSlika">Ikona serije</string>
+    <string-array name="serije">
+        <item>Breaking bad</item>
+        <item>Vikings</item>
+        <item>Dark</item>
+        <item>Sopranos</item>
+        <item>Wire</item>
+        <item>Game of thrones</item>
+        <item>Peaky Blinders</item>
+        <item>Only Fools and Horses</item>
+        <item>Stranger Things</item>
+    </string-array>
+    <string name="spremiSeriju">Spremi seriju</string>
+    <string name="izmjeniSeriju">Spremi izmjenu</string>
+    <string name="izbrisiSeriju">Izbriši Seriju</string>
+    <string name="labelaNazad">Nazad</string>
+    <string name="odustani">Odustani</string>
+    <string name="odaberi">Odaberi</string>
+    <string name="ispunitePodatke">Ispunite sve podatke</string>
+    <string name="zanrPopup">Unesite zanr</string>
+    <string name="redateljPopup">Unesite redatelja</string>
+    <string name="opisPopup">Unesite opis</string>
+    <string name="datumDodavanje">Datum dodavanja</string>
+    <string name="zanrPopupUredu">U REDU</string>
+    <string name="redateljPopupUredu">U REDU</string>
+    <string name="opisPopupUredu">U REDU</string>
+    <string name="zanrPopupOdustani">ODUSTANI</string>
+    <string name="redateljPopupOdustani">ODUSTANI</string>
+    <string name="opisPopupOdustani">ODUSTANI</string>
+    <string name="datumDodavanjaPopup">Odaberi datum</string>
+    <string name="vrijemePopup">Odaberi vrijeme početka</string>
+    <string name="obrisiSve">Serije izbrisane</string>
+</resources>
